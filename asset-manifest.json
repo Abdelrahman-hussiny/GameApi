@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GameApi/static/css/main.0fe4bc62.css",
-    "main.js": "/GameApi/static/js/main.b8e8e0e2.js",
+    "main.js": "/GameApi/static/js/main.cd70e0fe.js",
     "static/js/787.ec704a7a.chunk.js": "/GameApi/static/js/787.ec704a7a.chunk.js",
     "static/media/ost2.mp3": "/GameApi/static/media/ost2.65507bcf483037956ff2.mp3",
     "static/media/ost.mp3": "/GameApi/static/media/ost.3754789bece5d5a1296d.mp3",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.woff2": "/GameApi/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/GameApi/index.html",
     "main.0fe4bc62.css.map": "/GameApi/static/css/main.0fe4bc62.css.map",
-    "main.b8e8e0e2.js.map": "/GameApi/static/js/main.b8e8e0e2.js.map",
+    "main.cd70e0fe.js.map": "/GameApi/static/js/main.cd70e0fe.js.map",
     "787.ec704a7a.chunk.js.map": "/GameApi/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fe4bc62.css",
-    "static/js/main.b8e8e0e2.js"
+    "static/js/main.cd70e0fe.js"
   ]
 }
