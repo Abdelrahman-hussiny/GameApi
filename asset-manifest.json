@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/GameApi/static/css/main.0fe4bc62.css",
+    "main.js": "/GameApi/static/js/main.b8e8e0e2.js",
+    "static/js/787.ec704a7a.chunk.js": "/GameApi/static/js/787.ec704a7a.chunk.js",
+    "static/media/ost2.mp3": "/GameApi/static/media/ost2.65507bcf483037956ff2.mp3",
+    "static/media/ost.mp3": "/GameApi/static/media/ost.3754789bece5d5a1296d.mp3",
+    "static/media/wp6968022.jpg": "/GameApi/static/media/wp6968022.cc151cb712d249a64dbb.jpg",
+    "static/media/446830.jpg": "/GameApi/static/media/446830.5824dfd3d102d28b035b.jpg",
+    "static/media/fa-solid-900.ttf": "/GameApi/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/GameApi/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/GameApi/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/GameApi/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/8565.jpg": "/GameApi/static/media/8565.a8b347f03503e3fdfc52.jpg",
+    "static/media/fa-regular-400.ttf": "/GameApi/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/GameApi/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/GameApi/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/GameApi/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/GameApi/index.html",
+    "main.0fe4bc62.css.map": "/GameApi/static/css/main.0fe4bc62.css.map",
+    "main.b8e8e0e2.js.map": "/GameApi/static/js/main.b8e8e0e2.js.map",
+    "787.ec704a7a.chunk.js.map": "/GameApi/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe4bc62.css",
+    "static/js/main.b8e8e0e2.js"
+  ]
+}
