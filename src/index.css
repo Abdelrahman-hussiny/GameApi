@@ -1,13 +1,129 @@
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.bg{
+  background-color: #32383e;
+}
+.img-logo{
+  width: 55px;
+  height: 55px;
+}
+.text{
+  color: gray;
+  font-size: 12px;
+  text-align: center;
+}
+.btn{
+  background-color: gray;
+}
+.home-bg{
+  background-image: url(../src/Images/446830.jpg);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-attachment:local;
+  background-color: #1c1e22;
+  background-size: cover;
+  border: 1px solid rgba(0,0,0,.6);
+  width: 100%;
+  height: 40vh;
+  
+}
+.text-box{
+  color: gray;
+  background-color: rgba(0,0,0,.8);
+  height: 40vh;
+  padding: 25px;
+}
+.bg , .navbar{
+  background: rgb(57,81,120);
+background: linear-gradient(0deg, rgba(57,81,120,1) 13%, rgba(25,13,13,1) 91%);
+}
+.col-md-4{
+  transition: all 1s;
+ 
+  
+}
+.col-md-4:hover{
+  transform: scale(1.05);
+  transition: all 0.5s;
+
+}
+.col-md-3{
+  transition: all 1s;
+  
+ 
+  
+}
+.col-md-3:hover{
+  transform: scale(0.9);
+ 
+  transition: all 0.5s;
+  
+
+}
+.col-md-4 h5{
+  color:white;
+}
+.bgg{
+  background-image: linear-gradient(90deg, rgba(48,12,9,0.927608543417367) 0%, rgba(128,13,13,0.8911939775910365) 35%, rgba(70,25,25,0.835171568627451) 67%, rgba(67,45,89,0.9668242296918768) 100%),url(Images/wp6968022.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100% ;
+ 
+}
+.cc:hover{
+transform: scale(1);
+
+}
+
+.carousel-item img{
+  width: 500px;
+  height: 300px;
+}
+.buttons{
+  position:relative;
+}
+.buttons .carousel-control-next{
+  position:absolute;
+  left: 500px;
+  top: -250px;
+}
+.buttons .carousel-control-prev{
+  position:absolute;
+  left: -100px;
+  top: -250px;
+}
+.texto{
+  font-weight: 300;
+  color: white;
+  text-shadow: black 1.5px 1.5px;
+}
+
+.bgss {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+
+} 
+
+@media only screen and (max-width: 768px) {
+  .loggi{
+    display: none;
+  }
+}
+.bggnavi{
+  background-color: rgb(48,12,9);
+  background-image: linear-gradient(90deg, rgba(48,12,9,0.927608543417367) 0%, rgba(128,13,13,0.8911939775910365) 35%, rgba(70,25,25,0.835171568627451) 67%, rgba(67,45,89,0.9668242296918768) 100%);
 }
